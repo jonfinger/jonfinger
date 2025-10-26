@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/jae-finger/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://jae-finger.github.io">
+  <a href="https://jonfinger.com">
     <img src="https://img.shields.io/badge/portfolio-➡-lightgrey?style=for-the-badge&logo=appveyor&logo=youtube&logoColor=white" alt="portfolio badge"/>
   </a>
 </div>
